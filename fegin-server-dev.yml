@@ -11,3 +11,5 @@ eureka:
       defaultZone: http://127.0.0.1:7001/eureka/
     register-with-eureka: true
     fetch-registry: true
+
+#    更新测试，吕智铖还是不行
